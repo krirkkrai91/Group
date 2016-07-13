@@ -1,5 +1,6 @@
 123444 
 
+<<<<<<< HEAD
 
 benz ก็มา 
 
@@ -11,3 +12,7 @@ dfgkasdkf;
 
 
 
+=======
+asdasdsadasdasd
+benz ก็มา
+>>>>>>> 7eb387ea31c78a66fee42e609459b1603dd59dc4
