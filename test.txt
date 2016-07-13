@@ -1,6 +1,7 @@
 123444 
 sdfsdfsdfsdfsdfsdfsdf
 
+<<<<<<< HEAD
 benz ก็มา 
 
 dsfsdfsdfsdfsdfsdf
@@ -9,6 +10,13 @@ dfgkasdkf;
 
 sgdasjdhfasjdhad;
 rrr
+=======
+<<<<<<< HEAD
+benz ก็มา
+xxxxxxxxxxx
+=======
+asdasdsadasdasd
+>>>>>>> 316f3694498c1b7569569e610f90d4c18e7f12db
 
 
 
