@@ -1,0 +1,27 @@
+using System;
+using System.Collection.Generic;
+using.System.Linq;
+using.System.Web;
+using.System.Web.Configuration;
+using.System.Data.SqlClient;
+
+namespace xxxxxx
+{
+	public class ConnectionDb
+	{
+		String Connection = "nameDb";
+		SqlConnection connect;
+
+	public SqlConnection Connect()
+	{
+		connect = new SqlConnection(WebConfigurationManager.ConnectionString[Connection].ToString());
+		connect.Open();
+		return connect;
+	}
+	
+	public void Close()
+	{
+		connect.Close();
+	}
+         }
+}
